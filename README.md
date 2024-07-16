@@ -8,7 +8,6 @@ Landslides are one of the most devastating natural disasters, causing significan
 - **Edge Computing:** Processes and pre-processes collected data on edge devices to reduce bandwidth requirements.
 - **Machine Learning:** Employs machine learning algorithms to analyze sensor data and identify patterns indicative of potential landslides.
 - **Cloud Integration:** Uses cloud computing platforms to store, analyze, and visualize data.
-- **GIS Integration:** Integrates geographical information systems (GIS) for effective visualization and risk assessment.
 
 ## Components
 - **ESP8266 Wi-Fi Module:** Facilitates wireless communication.
